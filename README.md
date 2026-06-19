@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a2e,70:1a1a4e,100:0d0d3a&height=220&section=header&text=KRITIN&fontSize=65&fontColor=a8edff&fontAlignY=55&animation=twinkling&desc=cs+%40+vit-ap+·+full-stack+%2B+ml+%2F+ai&descSize=14&descAlignY=72&descColor=6eb5ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a2e,70:1a1a4e,100:0d0d3a&height=220&section=header&text=KRITIN+PANDA&fontSize=65&fontColor=a8edff&fontAlignY=40&animation=scaleIn" width="100%"/>
 
 # • About Me:
 → Building intelligent AI systems and scalable cloud-native applications.<br><br>→ Looking to collaborate on AI, Generative AI, MLOps, Cloud Infrastructure, and Open Source.<br><br>→ Seeking opportunities to learn distributed systems, cloud architecture, and production-grade AI deployment.<br><br>→ Currently learning Machine Learning, Deep Learning, LLMs, AWS, Docker, Kubernetes, and MLOps.<br><br>→ Ask me about Python, AI/ML, Cloud Computing, GitHub, and modern software engineering.<br><br>→ Fun fact: I believe every AI model deserves a scalable cloud infrastructure behind it.<br>
