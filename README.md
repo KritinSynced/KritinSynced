@@ -1,21 +1,25 @@
 <div align="center">
 
-<br/>
-
-```
- █████╗  ██████╗ ██████╗ ██╗   ██╗
-██╔══██╗██╔════╝██╔════╝ ██║   ██║
-███████║██║     ██║  ███╗██║   ██║
-██╔══██║██║     ██║   ██║╚██╗ ██╔╝
-██║  ██║╚██████╗╚██████╔╝ ╚████╔╝ 
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝   ╚═══╝  
-```
-
-**building at the intersection of design & intelligence**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&animation=fadeIn" width="100%"/>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;ML+%2F+AI+Enthusiast;Competitive+Programmer;CS+%40+VIT-AP+University)
+<a href="https://kritinsynced.github.io/my-portfolio">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=KRITIN" alt="KRITIN"/>
+</a>
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2500&pause=600&color=6E6E8A&center=true&vCenter=true&width=600&lines=cs+%40+vit-ap+·+class+of+'27;full-stack+%2B+ml+%2F+ai;competitive+programmer;always+building+something)
+
+<br/>
+
+```
+  ╔══════════════════════════════════════════════════╗
+  ║  "first, solve the problem.                      ║
+  ║        then, write the code."    — john johnson  ║
+  ╚══════════════════════════════════════════════════╝
+```
 
 <br/>
 
@@ -25,33 +29,42 @@
 
 <br/>
 
-**`→ what i build`**
-
-&nbsp;&nbsp;&nbsp;[**Picksy**](https://github.com/KritinSynced) &nbsp;·&nbsp; full-stack e-commerce with AI-powered recommendations  
-&nbsp;&nbsp;&nbsp;[**PageMinder**](https://github.com/KritinSynced) &nbsp;·&nbsp; browser tab & bookmark intelligence layer  
-&nbsp;&nbsp;&nbsp;[**Portfolio**](https://kritinsynced.github.io/my-portfolio) &nbsp;·&nbsp; `kritinsynced.github.io/my-portfolio`
-
-<br/>
-
-**`→ current focus`**
+**`▸ current grind`**
 
 ```
-100-day ML × DSA sprint  ───────────────────────────  targeting product companies
-Linear Algebra           ██████░░░░░░░░░░  in progress
-Probability & Stats      █████████░░░░░░░  in progress  
-Full DSA (Striver)       ████░░░░░░░░░░░░  starting soon
+╭─────────────────────────────────────────────────────╮
+│  100-day ML × DSA sprint                            │
+│                                                     │
+│  linear algebra      ██████░░░░░░░░░░  37%          │
+│  probability/stats   █████████░░░░░░░  56%          │
+│  full dsa (striver)  ████░░░░░░░░░░░░  25%          │
+│                                                     │
+│  target → product companies · placement '26        │
+╰─────────────────────────────────────────────────────╯
 ```
 
 <br/>
 
-**`→ stack`**
+**`▸ weapons of choice`**
 
 ```
-languages    Python · JavaScript · C · Java
-frontend     React · HTML/CSS · Tailwind
-backend      Node.js · Express · REST APIs
-data         NumPy · Pandas · scikit-learn
-tools        Git · Notion · Linux
+  ┌─────────────┬──────────────────────────────────────┐
+  │  lang       │  Python · JavaScript · C · Java       │
+  │  frontend   │  React · Tailwind · HTML/CSS          │
+  │  backend    │  Node.js · Express · REST             │
+  │  ml/data    │  NumPy · Pandas · scikit-learn        │
+  │  tools      │  Git · Linux · Notion                 │
+  └─────────────┴──────────────────────────────────────┘
+```
+
+<br/>
+
+**`▸ learning path`**
+
+```
+  [3Blue1Brown] ──→ [StatQuest] ──→ [Krish Naik] ──→ [Striver]
+       │                │                │                │
+   intuition        theory          applied           DSA grind
 ```
 
 <br/>
@@ -67,13 +80,13 @@ tools        Git · Notion · Linux
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KritinSynced&show_icons=true&theme=graywhite&hide_border=true&title_color=111111&text_color=555555&icon_color=111111&bg_color=00000000&hide_rank=false)](https://github.com/KritinSynced)
-&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KritinSynced&layout=compact&hide_border=true&title_color=111111&text_color=555555&bg_color=00000000&theme=graywhite)](https://github.com/KritinSynced)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KritinSynced&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9b1d6&text_color=6e6e8a&icon_color=7aa2f7)](https://github.com/KritinSynced)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KritinSynced&layout=compact&hide_border=true&bg_color=0d1117&title_color=a9b1d6&text_color=6e6e8a&theme=tokyonight)](https://github.com/KritinSynced)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KritinSynced&theme=transparent&hide_border=true&stroke=EEEEEE&ring=111111&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=888888&sideLabels=888888&dates=AAAAAA)](https://github.com/KritinSynced)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KritinSynced&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=1a1a2e&ring=7aa2f7&fire=7aa2f7&currStreakNum=a9b1d6&sideNums=a9b1d6&currStreakLabel=6e6e8a&sideLabels=6e6e8a&dates=6e6e8a)](https://github.com/KritinSynced)
 
 <br/>
 
@@ -81,8 +94,10 @@ tools        Git · Notion · Linux
 
 <br/>
 
-`VIT-AP · Amaravati · CSE '27` &nbsp;·&nbsp; [portfolio](https://kritinsynced.github.io/my-portfolio)
+`vit-ap · amaravati · cse '27` &nbsp;·&nbsp; [portfolio ↗](https://kritinsynced.github.io/my-portfolio)
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer" width="100%"/>
 
 </div>
